@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+./src/mobi/
+./src/mobi
+./src/mobi/__init__.py ./src/mobi/lz77.py ./src/mobi/utils.py
