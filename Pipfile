@@ -12,8 +12,6 @@ craft-ai="*"
 matplotlib="*"
 plotly="*"
 sklearn="*"
-lzss = "*"
-importlib = "*"
 
 [requires]
 python_version = "3.7"
